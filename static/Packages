@@ -1,0 +1,14 @@
+Package: fceux
+Version: 2.6.6.m2
+Depends: 
+Source: https://github.com/Apaczer/fceux-for-miyoo
+License: GPL-2.0
+Filename: fceux_2.6.6.m2_arm.ipk
+Size: 909042
+MD5sum: 62a050613ade3bd4805a69d5294e00ee
+Description: NES/Famicom and Dendy emulator
+Section: emulators
+Priority: optional
+Maintainer: Apaczer
+Architecture: arm
+
