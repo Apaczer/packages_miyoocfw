@@ -1,29 +1,29 @@
 Package: fceux
 Version: 2.6.6.m2
-Depends: 
-Source: https://github.com/Apaczer/fceux-for-miyoo
-License: GPL-2.0
-Filename: fceux_2.6.6.m2_arm.ipk
-Size: 911146
-MD5sum: f73ef64f7e169fa73759d2897decc192
-Description: NES/Famicom and Dendy emulator
 Section: emulators
-Priority: optional
-Maintainer: Apaczer
 Architecture: arm
+Maintainer: Apaczer
+MD5Sum: f73ef64f7e169fa73759d2897decc192
+Size: 911146
+Filename: fceux_2.6.6.m2_arm.ipk
+Source: https://github.com/Apaczer/fceux-for-miyoo
+Description: NES/Famicom and Dendy emulator
+License: GPL-2.0
+Priority: optional
+
 
 Package: temper
 Version: 1.25.m2
-Depends: 
-Source: https://github.com/Apaczer/temper
-License: Custom
-Filename: temper_1.25.m2_arm.ipk
-Size: 508592
-MD5sum: af1cdaa705e44b7b5cd017c2c1ef546f
-Description: NEC/PC-Engine emulator
-Installed-Size: 1075200
 Section: emulators
-Priority: optional
-Maintainer: Apaczer
 Architecture: arm
+Maintainer: Apaczer
+MD5Sum: af1cdaa705e44b7b5cd017c2c1ef546f
+Size: 508592
+Filename: temper_1.25.m2_arm.ipk
+Source: https://github.com/Apaczer/temper
+Description: NEC/PC-Engine emulator
+License: Custom
+Priority: optional
+Installed-Size: 1075200
+
 
